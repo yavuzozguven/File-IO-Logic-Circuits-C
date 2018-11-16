@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1542389286 source:c:\users\yavuz\desktop\prolabproje2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+

@@ -1,0 +1,4 @@
+.giris	a	b	#girisler
+.cikis	d	#cikis
+.kapi	NOR	2	d	a	b	2
+.son
